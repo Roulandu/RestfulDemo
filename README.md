@@ -1,0 +1,2 @@
+# RestfulDemo
+SpringMVC+MyBatis构建restful风格api测试示例
