@@ -19,4 +19,4 @@ address:8080/demo/book/updateBook/{id}
 参数：{"bookName":"《机器学习》","bookAuthor":"周志华","bookPress":"没有出版社","bookPrice":"100.34"}
 
 删除操作：HTTP.DELETE
-address:8080/demo/book/deleteBook/{id}					例如:192.168.1.101:8080/demo/book/deleteBook/3	
+address:8080/demo/book/deleteBook/{id}		例如:192.168.1.101:8080/demo/book/deleteBook/3	
